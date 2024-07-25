@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/wc-socket-transport",
-  "version": "1.8.10",
+  "name": "@luxwallet/wc-socket-transport",
+  "version": "1.8.11",
   "description": "Socket Transport for WalletConnect",
   "publishConfig": {
     "access": "public"
