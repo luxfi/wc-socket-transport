@@ -1,4 +1,4 @@
-import { NetworkEvent, INetworkMonitor } from "@luxfi/wc-types";
+import { NetworkEvent, INetworkMonitor } from "@luxwallet/wc-types";
 declare class NetworkMonitor implements INetworkMonitor {
     private _eventEmitters;
     constructor();

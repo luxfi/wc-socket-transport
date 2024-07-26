@@ -1,4 +1,4 @@
-import { ITransportLib, ISocketTransportOptions } from "@luxfi/wc-types";
+import { ITransportLib, ISocketTransportOptions } from "@luxwallet/wc-types";
 declare class SocketTransport implements ITransportLib {
     private opts;
     private _protocol;

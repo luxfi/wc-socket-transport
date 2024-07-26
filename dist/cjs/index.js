@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const tslib_1 = require("tslib");
-const wc_utils_1 = require("@luxfi/wc-utils");
+const wc_utils_1 = require("@luxwallet/wc-utils");
 const network_1 = tslib_1.__importDefault(require("./network"));
 const WS = typeof global.WebSocket !== "undefined" ? global.WebSocket : require("ws");
 class SocketTransport {

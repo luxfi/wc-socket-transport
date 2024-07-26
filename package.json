@@ -1,6 +1,6 @@
 {
   "name": "@luxwallet/wc-socket-transport",
-  "version": "1.8.11",
+  "version": "1.8.12",
   "description": "Socket Transport for WalletConnect",
   "publishConfig": {
     "access": "public"
@@ -59,8 +59,8 @@
     "webpack-cli": "3.3.10"
   },
   "dependencies": {
-    "@luxfi/wc-types": "^1.8.10",
-    "@luxfi/wc-utils": "^1.8.10",
+    "@luxwallet/wc-types": "^1.8.10",
+    "@luxwallet/wc-utils": "^1.8.10",
     "ws": "7.5.3"
   }
 }
